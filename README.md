@@ -95,12 +95,13 @@ AI    : 大模型 API · 学习诊断 / 计划生成
 
 <div align="center">
 
-<img height="170" src="https://stats.justsong.cn/api?username=oykb58246&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=7AB8FF&icon_color=7AB8FF&bg_color=0d1117" alt="stats" />
-<img height="170" src="https://stats.justsong.cn/api/top-langs/?username=oykb58246&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=7AB8FF&bg_color=0d1117" alt="top langs" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oykb58246&theme=tokyonight" alt="stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oykb58246&theme=tokyonight" alt="top langs" />
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=oykb58246&theme=tokyonight&hide_border=true&background=0d1117&ring=7AB8FF&fire=7AB8FF&currStreakLabel=7AB8FF" alt="streak" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oykb58246&theme=tokyonight" alt="repos by lang" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oykb58246&theme=tokyonight&utcOffset=8" alt="productive time" />
 
 </div>
 
